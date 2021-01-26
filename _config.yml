@@ -41,6 +41,9 @@ local_search:
 # 是否显示 一言(hitokoto)
 hitokoto: true
 
+# 是否显示 看板娘 更多设置详见themes/hexo-theme-diaspora/source/js/waifu-tips.js
+live2d: true
+
 # 链接(可选:facebook,twitter,github,wechat,email)
 links:
     facebook: /
