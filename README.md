@@ -1,7 +1,8 @@
 # Hexo-theme-diaspora
 
 
-**[在线预览 | PREVIEW ](http://fech.in)**
+**[在线预览 | PREVIEW (原版)](http://fech.in)**
+**[在线预览 | PREVIEW (本版)](https://wdsjimin.gitee.io)**
 
 一款基于WP移植的Hexo主题，删除了莫名其妙出现的广告，适合喜欢摄影，影评，乐评和玩弄文字的你（其实我是看封面进来的2333），干净，清新； 响应式，Ajax，更多好玩的等你来发现。 
 > 再次感谢原作者创作出这么精美的主题 [@Loeify](https://github.com/LoeiFy/Diaspora) 。如果你喜欢，请捐助原作者。
