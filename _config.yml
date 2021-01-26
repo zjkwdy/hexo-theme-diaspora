@@ -44,13 +44,14 @@ hitokoto: true
 # 是否显示 看板娘 更多设置详见themes/hexo-theme-diaspora/source/js/waifu-tips.js
 live2d: true
 
-# 链接(可选:facebook,twitter,github,wechat,email)
+# 链接(可选:facebook,twitter,github,wechat,email,bilibili)
 links:
     facebook: /
     twitter: /
     github: /
     wechat: /img/logo.png
     email: mailto:xxxx@gmail.com
+    bilibili: /
   
 # 备案
 beian: 
