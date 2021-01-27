@@ -27,6 +27,9 @@
         <span> | </span>Theme <%- link_to("https://github.com/Fechin/hexo-theme-diaspora", "Diaspora", {external: true})%> by Fechin
 		<% if (theme.beian.enable){ %>
 		<span> | </span><a rel="nofollow" href="<%=theme.beian.link%>" target="_blank"><%=theme.beian.beianInfo%></a>
-		<%}%>
+        <%}%>
+        <% if (theme.darkmode){ %>
+        <span> | </span> <a href="javascript:void(0);" rel="external nofollow" rel="external nofollow" onclick="switchDarkMode();">暗♂黑模式</a>
+        <%}%>
     </p>
 </div>
