@@ -165,16 +165,13 @@ table {
 
 .iconfont {
     background: #06090f;
-    color: rgb(218, 181, 125);
+    color:white !important;
 }
 
 #vibrant svg>polygon {
     fill: rgb(0 0 0 / 60%)
 }
-a{
-    color: gray;
-}
-a:hover{
+.menu a:hover{
     color: white;
 }
 input{
